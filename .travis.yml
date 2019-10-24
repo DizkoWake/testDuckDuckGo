@@ -4,4 +4,4 @@ python:
  - "nightly"
 install:
  - "pip install pytest"
- - "pip -m install requests --no-cache-dir"
+ - "pip install requests --no-cache-dir"
